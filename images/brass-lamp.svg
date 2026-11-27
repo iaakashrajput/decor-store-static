@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 450" width="600" height="450">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#fbf6ef"/>
+      <stop offset="100%" stop-color="#efe1cf"/>
+    </linearGradient>
+  </defs>
+  <rect width="600" height="450" fill="url(#bg)"/>
+  <circle cx="300" cy="210" r="135" fill="#b45309" opacity="0.12"/>
+  <line x1="300" y1="20" x2="300" y2="130" stroke="#4a3728" stroke-width="4"/>
+        <rect x="285" y="120" width="30" height="18" rx="4" fill="#854d0e"/>
+        <path d="M235 138 Q300 115 365 138 L405 255 Q300 280 195 255 Z" fill="#d97706" stroke="#78350f" stroke-width="3"/>
+        <ellipse cx="300" cy="262" rx="36" ry="16" fill="#fef08a"/>
+  <text x="300" y="408" text-anchor="middle" font-family="Georgia, serif" font-size="20" fill="#2c2420" opacity="0.75">Brass Pendant Lamp</text>
+</svg>

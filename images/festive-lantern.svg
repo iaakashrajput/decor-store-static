@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 450" width="600" height="450">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#faf5ef"/>
+      <stop offset="100%" stop-color="#ead8c3"/>
+    </linearGradient>
+  </defs>
+  <rect width="600" height="450" fill="url(#bg)"/>
+  <circle cx="300" cy="210" r="135" fill="#b45309" opacity="0.12"/>
+  <circle cx="300" cy="95" r="14" fill="none" stroke="#78350f" stroke-width="4"/>
+        <path d="M255 155 Q300 105 345 155 Z" fill="#92400e"/>
+        <rect x="245" y="155" width="110" height="150" rx="8" fill="#fef3c7" stroke="#78350f" stroke-width="4"/>
+        <path d="M265 305 L265 210 Q300 175 335 210 L335 305" fill="#f59e0b" opacity="0.55" stroke="#78350f" stroke-width="2.5"/>
+        <ellipse cx="300" cy="260" rx="12" ry="22" fill="#fde047"/>
+        <rect x="235" y="305" width="130" height="18" rx="4" fill="#78350f"/>
+  <text x="300" y="408" text-anchor="middle" font-family="Georgia, serif" font-size="20" fill="#2c2420" opacity="0.75">Moroccan Festive Lantern</text>
+</svg>

@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 450" width="600" height="450">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#f7efe5"/>
+      <stop offset="100%" stop-color="#e8d5c0"/>
+    </linearGradient>
+  </defs>
+  <rect width="600" height="450" fill="url(#bg)"/>
+  <circle cx="300" cy="210" r="135" fill="#b45309" opacity="0.12"/>
+  <line x1="220" y1="0" x2="220" y2="120" stroke="#4a3728" stroke-width="3"/>
+        <path d="M170 120 Q220 95 270 120 L295 190 Q220 205 145 190 Z" fill="#c27834" stroke="#4a3728" stroke-width="2.5"/>
+        <ellipse cx="220" cy="195" rx="22" ry="12" fill="#fde68a" opacity="0.9"/>
+        <line x1="380" y1="0" x2="380" y2="165" stroke="#4a3728" stroke-width="3"/>
+        <path d="M340 165 Q380 145 420 165 L440 225 Q380 238 320 225 Z" fill="#9a4a1a" stroke="#4a3728" stroke-width="2.5"/>
+        <ellipse cx="380" cy="230" rx="18" ry="10" fill="#fde68a" opacity="0.9"/>
+        <rect x="130" y="330" width="340" height="16" rx="4" fill="#6b4423"/>
+        <path d="M275 330 L288 265 Q300 250 312 265 L325 330 Z" fill="#d97706" opacity="0.85"/>
+  <text x="300" y="408" text-anchor="middle" font-family="Georgia, serif" font-size="20" fill="#2c2420" opacity="0.75">Handcrafted Interior Collection</text>
+</svg>

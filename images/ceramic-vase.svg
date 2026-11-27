@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 450" width="600" height="450">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#faf4ef"/>
+      <stop offset="100%" stop-color="#ebd8ca"/>
+    </linearGradient>
+  </defs>
+  <rect width="600" height="450" fill="url(#bg)"/>
+  <circle cx="300" cy="210" r="135" fill="#9a3412" opacity="0.12"/>
+  <path d="M270 110 L330 110 L320 155 Q375 205 355 295 Q340 340 300 340 Q260 340 245 295 Q225 205 280 155 Z" fill="#c25934" stroke="#7c2d12" stroke-width="3"/>
+        <ellipse cx="300" cy="110" rx="30" ry="9" fill="#9a3412"/>
+        <path d="M252 245 Q300 265 348 245" fill="none" stroke="#fed7aa" stroke-width="4" opacity="0.8"/>
+        <path d="M250 265 Q300 285 350 265" fill="none" stroke="#fed7aa" stroke-width="2.5" opacity="0.6"/>
+  <text x="300" y="408" text-anchor="middle" font-family="Georgia, serif" font-size="20" fill="#2c2420" opacity="0.75">Terracotta Ceramic Vase</text>
+</svg>
